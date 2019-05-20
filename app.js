@@ -23,7 +23,7 @@ module.exports = function () {
     allowConfigUpdate: true, //set to false to turn off REST endpoint of allowing update of metadata
     waitForMoreResponsesMs: 200,  //milliseconds to wait for additional webhook responses
             
-    amzn_appId: "amzn1.ask.skill.9d37072a-31e0-4390-97aa-e59fd7205b2d",
+    amzn_appId: "amzn1.ask.skill.be571df0-a2a1-484f-8d41-39ba996436dd",
     channelSecretKey: 'fOTdjIGnnyyfaPcK4cPjpxws5R6KAfzU', // edmj
     //ninja botchannelSecretKey: 'AIWvBPHXhxhFdKV47IDu1fF2pxcsvmLn',
     channelUrl: 'https://b2b34218.ngrok.io/connectors/v1/tenants/chatbot-tenant/listeners/webhook/channels/F2B064FD-6D0E-43B0-A0BF-22766F4C2775'        
