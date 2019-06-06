@@ -24,9 +24,9 @@ module.exports = function () {
     waitForMoreResponsesMs: 200,  //milliseconds to wait for additional webhook responses
             
     amzn_appId: "amzn1.ask.skill.be571df0-a2a1-484f-8d41-39ba996436dd",
-    channelSecretKey: 'NGbUUzh5LkmmRLAClpAriF75FpDDMluI', // edmj
+    channelSecretKey: 'fOTdjIGnnyyfaPcK4cPjpxws5R6KAfzU', // zcq
     //ninja botchannelSecretKey: 'AIWvBPHXhxhFdKV47IDu1fF2pxcsvmLn',
-    channelUrl: 'https://b2b34218.ngrok.io/connectors/v1/tenants/chatbot-tenant/listeners/webhook/channels/D3502546-7177-41B4-A7A9-BAC8A3B9911F'        
+    channelUrl: 'https://b2b34218.ngrok.io/connectors/v1/tenants/chatbot-tenant/listeners/webhook/channels/F9BF9BEE-82BE-4AF1-B1FA-452370557F54'        
     //ninja bot channelUrl: 'https://b2b34218.ngrok.io/connectors/v1/tenants/chatbot-tenant/listeners/webhook/channels/E78A0816-F388-4C3E-AF93-1D1C543E931A'        
     // channelUrl: 'https://b2b34218.ngrok.io/connectors/v1/tenants/chatbot-tenant/listeners/webhook/channels/E78A0816-F388-4C3E-AF93-1D1C543E931A'    
     // channelUrl: 'https://e87476aa.ngrok.io/connectors/v1/tenants/chatbot-tenant/listeners/webhook/channels/AE1803AB-3A46-4A40-A34A-13B4989C5DD5'
